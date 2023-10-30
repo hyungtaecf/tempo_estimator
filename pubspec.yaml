@@ -1,0 +1,17 @@
+name: tempo_estimator
+description: A tool to help finding the BPM (beats per minute) by tapping.
+version: 0.0.1
+repository: https://github.com/hyungtaecf/tempo_estimator
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
