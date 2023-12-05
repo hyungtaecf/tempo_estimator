@@ -1,4 +1,4 @@
-part of tempo_estimator;
+part of 'tempo_estimator.dart';
 
 class Statistics {
   static num total(Iterable<num> l) {

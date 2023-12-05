@@ -1,6 +1,6 @@
 name: tempo_estimator
 description: A tool to help finding the BPM (beats per minute) by tapping.
-version: 0.0.1
+version: 0.1.0
 repository: https://github.com/hyungtaecf/tempo_estimator
 
 environment:
@@ -14,7 +14,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.1
+
+screenshots:
+  - description: "Iconographic image representing a BPM (beats per minute) finding tool. The image features a stylized finger tapping a rhythmic pattern."
+    path: "img/representative_image.png"
 
 topics:
   - metronome
